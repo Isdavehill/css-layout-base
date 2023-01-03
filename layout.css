@@ -1,0 +1,14 @@
+
+
+body {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+}//You may need to do this on an app wrapper instead. For example 
+#__next {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+
